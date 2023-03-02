@@ -5,7 +5,7 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sergio.furlanetto.16)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](furlanettosergio1212@gmail.com)
 
-### Linguagems e tecnologias que conhesso
+### Linguagems e tecnologias que conheço
 
 <div style="display:inine-block;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,3 +16,5 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
+
+![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio6744&show_icons=true&theme=dark)
